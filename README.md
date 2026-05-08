@@ -52,6 +52,7 @@
 * [Resumake](https://resumake.io) — Generates LaTeX-style PDFs from simple form inputs. **🟢 🆓 🌐**
 * [ResumeLM](https://resumelm.com) — AI assistant, ATS checker, and cover letter generator. Free and open source. **🟢 🆓 🌐 🤖**
 * [JSON Resume](https://jsonresume.org) — Open source initiative to create a JSON-based standard for resumes. **🟢 🆓 🌐 🛠**
+* [JobSprout](https://jobsprout.ai) - AI CV and cover letter builder with Typst templates and ATS-friendly export. **🌐 🤖 💼**
 * [CV Compiler](https://cvcompiler.com) — Tech resume analyzer and optimizer for software engineers. **🌐 🤖 💼**
 * [Standard Resume](https://standardresume.co) — Clean, modern resume builder with beautiful templates. **🆓 🌐 💼**
 * [Kickresume](https://www.kickresume.com) — AI-powered resume builder with ATS-friendly templates. **🌐 🤖 💼**
