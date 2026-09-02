@@ -215,6 +215,7 @@
 * [Huntr](https://huntr.co) — Job search organizer with resume tailoring. **🌐 💼**
 * [ChatGPT Resume Prompts](https://github.com/f/awesome-chatgpt-prompts) — Collection of prompts for resume writing with ChatGPT. **🟢 🤖**
 * [Resume.io AI Writer](https://resume.io/ai-resume-writer) — AI-powered resume content generation. **🤖 💼**
+* [ResumeAI](https://withresumeai.com) — Free ATS checker plus State of ATS 2026 (738 employers, 704 portal-verified). **🆓 🌐 🤖**
 * [Kickresume AI Writer](https://www.kickresume.com/en/ai-resume-writer/) — GPT-powered resume section generator. **🤖 💼**
 
 [⬆️ Back to top](#-table-of-contents)
