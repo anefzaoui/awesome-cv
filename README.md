@@ -55,6 +55,7 @@
 * [CV Compiler](https://cvcompiler.com) — Tech resume analyzer and optimizer for software engineers. **🌐 🤖 💼**
 * [Standard Resume](https://standardresume.co) — Clean, modern resume builder with beautiful templates. **🆓 🌐 💼**
 * [Kickresume](https://www.kickresume.com) — AI-powered resume builder with ATS-friendly templates. **🌐 🤖 💼**
+* [ResumeOrbitz](https://resumeorbitz.com) — Free resume builder with 150+ templates, AI-generated content, and a built-in ATS score checker. **🆓 🌐 🤖 💼**
 
 [⬆️ Back to top](#-table-of-contents)
 
