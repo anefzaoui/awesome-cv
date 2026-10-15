@@ -216,6 +216,7 @@
 * [ChatGPT Resume Prompts](https://github.com/f/awesome-chatgpt-prompts) — Collection of prompts for resume writing with ChatGPT. **🟢 🤖**
 * [Resume.io AI Writer](https://resume.io/ai-resume-writer) — AI-powered resume content generation. **🤖 💼**
 * [Kickresume AI Writer](https://www.kickresume.com/en/ai-resume-writer/) — GPT-powered resume section generator. **🤖 💼**
+* [Jorrilo](https://jorrilo.com) — AI-powered job application platform: free resume check, resume-vs-job matching, and tailored resume/cover-letter generation grounded in your real experience. **🆓 🌐 🤖 💼**
 
 [⬆️ Back to top](#-table-of-contents)
 
