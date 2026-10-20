@@ -205,6 +205,7 @@
 
 ## 🤖 AI & Optimization Tools
 
+* [JobEmerge](https://www.jobemerge.work) — AI career copilot for job-fit checks, ATS-ready resumes, cover letters, mock interviews, and application tracking. **🆓 🌐 🤖 💼**
 * [Jobscan](https://www.jobscan.co) — ATS optimization tool that compares your resume against job descriptions. **🤖 💼**
 * [Resume Worded](https://resumeworded.com) — AI-powered resume review and optimization. **🤖 💼**
 * [Rezi](https://www.rezi.ai) — AI resume builder with ATS optimization. **🤖 💼**
