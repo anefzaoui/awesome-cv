@@ -51,6 +51,7 @@
 * [Resume Craft](https://resumecraft.org) — Inspired by OpenResume, runs client-side for full privacy. **🟢 🆓 🌐 💼**
 * [Resumake](https://resumake.io) — Generates LaTeX-style PDFs from simple form inputs. **🟢 🆓 🌐**
 * [ResumeLM](https://resumelm.com) — AI assistant, ATS checker, and cover letter generator. Free and open source. **🟢 🆓 🌐 🤖**
+* [ResumePlot](https://resumeplot.com/) — English/Chinese resume workspace with PDF/DOCX/text import, user-reviewed AI suggestions, and PDF/JSON export. **🌐 💼**
 * [JSON Resume](https://jsonresume.org) — Open source initiative to create a JSON-based standard for resumes. **🟢 🆓 🌐 🛠**
 * [CV Compiler](https://cvcompiler.com) — Tech resume analyzer and optimizer for software engineers. **🌐 🤖 💼**
 * [Standard Resume](https://standardresume.co) — Clean, modern resume builder with beautiful templates. **🆓 🌐 💼**
