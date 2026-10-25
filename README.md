@@ -47,6 +47,7 @@
 
 * [Reactive Resume](https://rxresu.me) — Open-source, privacy-first resume builder with customizable themes and JSON import/export. **🟢 🆓 🌐 🛠**
 * [FlowCV](https://flowcv.com) — Modern resume builder with sleek templates, instant previews, and unlimited free downloads for your first resume. **🆓 🌐 💼**
+* [Open Resume (AniChikage)](https://github.com/AniChikage/open-resume) — Self-hosted resume builder with 156 templates, live preview and free PDF/PNG exports. Runs with Docker or Node.js. **🟢 🆓 🌐 🛠**
 * [OpenResume](https://www.open-resume.com) — Browser-based resume builder and parser. No sign-up, ATS-focused, and open source. **🟢 🆓 🌐 💼**
 * [Resume Craft](https://resumecraft.org) — Inspired by OpenResume, runs client-side for full privacy. **🟢 🆓 🌐 💼**
 * [Resumake](https://resumake.io) — Generates LaTeX-style PDFs from simple form inputs. **🟢 🆓 🌐**
