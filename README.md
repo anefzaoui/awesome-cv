@@ -50,6 +50,7 @@
 * [OpenResume](https://www.open-resume.com) — Browser-based resume builder and parser. No sign-up, ATS-focused, and open source. **🟢 🆓 🌐 💼**
 * [Resume Craft](https://resumecraft.org) — Inspired by OpenResume, runs client-side for full privacy. **🟢 🆓 🌐 💼**
 * [Resumake](https://resumake.io) — Generates LaTeX-style PDFs from simple form inputs. **🟢 🆓 🌐**
+* [ResumeInvited](https://resumeinvited.com/) — Browser-based resume builder with live preview, local drafts, and free PDF or editable Word downloads without sign-up. **🆓 🌐**
 * [ResumeLM](https://resumelm.com) — AI assistant, ATS checker, and cover letter generator. Free and open source. **🟢 🆓 🌐 🤖**
 * [JSON Resume](https://jsonresume.org) — Open source initiative to create a JSON-based standard for resumes. **🟢 🆓 🌐 🛠**
 * [CV Compiler](https://cvcompiler.com) — Tech resume analyzer and optimizer for software engineers. **🌐 🤖 💼**
