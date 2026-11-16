@@ -207,6 +207,7 @@
 
 * [Jobscan](https://www.jobscan.co) — ATS optimization tool that compares your resume against job descriptions. **🤖 💼**
 * [Resume Worded](https://resumeworded.com) — AI-powered resume review and optimization. **🤖 💼**
+* [ResumeRadar](https://automatethebs.github.io/resume-radar/) — Browser-based, privacy-first ATS resume checker that scores a resume against a pasted job posting and shows keyword gaps, parser warnings, and prioritized fixes; the free scan needs no account or upload, and an optional one-time $9 Pro report adds every gap and fix. **🟢 🆓 🌐**
 * [Rezi](https://www.rezi.ai) — AI resume builder with ATS optimization. **🤖 💼**
 * [Enhancv](https://enhancv.com) — Resume builder with content suggestions and ATS checking. **🌐 🤖 💼**
 * [VMock](https://www.vmock.com) — AI-powered career platform with resume scoring. **🤖 🎓**
